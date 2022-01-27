@@ -2,11 +2,10 @@
 name = "wordlebot"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Parker Wahle <regulad@regulad.xyz>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-APScheduler = "^3.8.1"
 
 [tool.poetry.dev-dependencies]
 
